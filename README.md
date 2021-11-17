@@ -1,4 +1,4 @@
-# Guided Project Storytelling Data Visualization on Exchange Rates
+# Guided Project: Storytelling Data Visualization on Exchange Rates
 
 ### Project Informations
 *   Solution to the guided project Storytelling Data Visualization on Exchange Rates on [Dataquest](dataquest.io)
