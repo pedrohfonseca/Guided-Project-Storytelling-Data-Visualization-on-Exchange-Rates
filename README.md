@@ -20,6 +20,11 @@ pip install pylint
 pylint basics.py
 ```
 
+```
+!pip -q install pytest pytest-sugar
+```
+
+
 ### Authors
 *   [Kathleen Noemi](https://github.com/kathleenrego)
 *   [Pedro Henrique](https://github.com/pedrohfonseca)
