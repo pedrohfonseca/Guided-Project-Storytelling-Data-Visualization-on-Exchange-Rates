@@ -25,6 +25,7 @@ def read_data(file_path):
         return df
     except:
         logging.error("ERROR: we were not able to find {}".format(file_path))
+        return None
 
 def calculate_rolling_mean(val, window):
     """
@@ -42,6 +43,7 @@ def calculate_rolling_mean(val, window):
       return rolling_mean
     except:
       logging.error("ERROR: Window is not a INT")
+      return None
 
 def to_datetime(time):
     """
@@ -57,4 +59,5 @@ def to_datetime(time):
       return date
     except:
       logging.error("Invalid parsing value")
+      return None
       
