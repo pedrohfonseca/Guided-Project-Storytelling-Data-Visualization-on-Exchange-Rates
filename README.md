@@ -11,7 +11,7 @@ We also used Gestalt Principles and Pre-Attentive Attributes to improve our grap
 *   [Spyder IDE](https://www.spyder-ide.org/);
 *   [Jupyter](https://jupyter.org/);
 *   [Anaconda - 3](https://www.anaconda.com/products/individual).
-
+https://docs.pytest.org/en/6.2.x/
 ## Commands
 
 * To run the project with [pylint](https://pypi.org/project/pylint): 
@@ -19,9 +19,10 @@ We also used Gestalt Principles and Pre-Attentive Attributes to improve our grap
 pip install pylint
 pylint basics.py
 ```
-
+* To run the tests with [pytest](https://pypi.org/project/pylint): 
 ```
 !pip -q install pytest pytest-sugar
+!python -m pytest test_functions.py
 ```
 
 
