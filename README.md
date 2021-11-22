@@ -8,6 +8,12 @@ We also used Gestalt Principles and Pre-Attentive Attributes to improve our grap
 
 *   Pytest was used through unit tests in the implemented functions and the resulting Code was evaluated by Pylint, obtaining a score of 10.0.
 
+#### Results
+<img src="https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/financial_crisis.png" width="700">
+<img src="https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/euro-usd-rate.png" width="700">
+<img src="https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/usd-brl-rate.png" width="700">
+<img src="https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/pylint.jpg" width="700">
+
 ### Tools
 *   [Google Colab](https://colab.research.google.com/);
 *   [Spyder IDE](https://www.spyder-ide.org/);
