@@ -6,7 +6,7 @@
 The data visualization was made using storyteller to see the changes of rate over the years.
 We also used Gestalt Principles and Pre-Attentive Attributes to improve our graphs and used the FiveThirdyEight style on matplotlib.
 
-Pytest was used through unit tests in the implemented functions and the resulting Code was evaluated by Pylint, obtaining a score of 10.0.
+*   Pytest was used through unit tests in the implemented functions and the resulting Code was evaluated by Pylint, obtaining a score of 10.0.
 
 ### Tools
 *   [Google Colab](https://colab.research.google.com/);
